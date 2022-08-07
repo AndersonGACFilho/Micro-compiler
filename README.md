@@ -8,14 +8,8 @@ Microcompiler
 </h4>
 <h2>We use these technologies:</h2>
 <ul>
- <li>For Front-End:</li>
- <ul>
- <li>ReactJS</li>
- </ul>
- <li>For Back-End:</li>
- <ul>
  <li>ANTLR4</li>
- <li>NodeJs</li>
+ <li>Java</li>
  </ul>
 </ul>
 <h2>Authors</h2>
